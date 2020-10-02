@@ -458,6 +458,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 489832800}
     m_Modifications:
+    - target: {fileID: 942426416858441498, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
+      propertyPath: m_FontData.m_LineSpacing
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 942426416858441498, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 942426416858441498, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
+      propertyPath: m_FontData.m_HorizontalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 942426416858441498, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
+      propertyPath: m_FontData.m_AlignByGeometry
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 942426416858441498, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
+      propertyPath: m_FontData.m_RichText
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1195012508344717044, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
       propertyPath: m_AnchorMin.y
       value: 0
@@ -868,7 +888,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4345152219066876741, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5899322813673076532, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -876,7 +896,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5899322813673076532, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.54722595
+      value: -0.5472107
       objectReference: {fileID: 0}
     - target: {fileID: 8978587529171722959, guid: 87f171f1c6faf7040b4018d3410f659c, type: 3}
       propertyPath: m_AnchorMax.x
